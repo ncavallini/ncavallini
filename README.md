@@ -3,7 +3,7 @@
 Hi! Welcome to my GitHub profile. 
 
 I am a Computer Science student at [ETH Zurich](https://inf.ethz.ch) and have been passionate of software development since I was in the middle school.
-I started developing (very bad written) software using Visual Basic .Net, because at the time I had no experience in coding and I saw VB .Net as an easy-enough entry point for creating simple Windows GUI applications (they call them Windows Form Applications).
+I started developing (very badly written) software using Visual Basic .Net, because at the time I had no experience in coding and I saw VB .Net as an easy-enough entry point for creating simple Windows GUI applications (what's known in the business as "Windows Form Applications").
 
 I started thinking seriously of coding when I first learned Java and understood that GUIs are not in any way essential to understand the basics of programming; very often they over complicate the code for a beginner.
 
