@@ -8,3 +8,5 @@ I started developing (very badly written) software using Visual Basic .Net, beca
 I started thinking seriously of coding when I first learned Java and understood that GUIs are not in any way essential to understand the basics of programming; very often they over complicate the code for a beginner.
 
 Then, I switched to web development and learned HTML, CSS, JS and PHP. With them, I completely revamped my high school IT course website. By the way, you can find the code [here](https://github.com/ncavallini/ocinfo_libe) (Sorry, that the code is not properly pushed - it's all on a zip file under the _Release_ section, but my school wanted it so).
+
+With the time, I realised many web apps for small enterprises & offices in PHP and Java Spring, mainly management softwares, in different fields.
